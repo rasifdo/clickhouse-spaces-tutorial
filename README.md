@@ -1,7 +1,7 @@
 ## Setup Instructions
 
 1. **Login to DigitalOcean**  
-    - Visit [https://cloud.digitalocean.com/](https://cloud.digitalocean.com/)
+    - Visit [DigitalOcean CloudUI](https://cloud.digitalocean.com/](https://cloud.digitalocean.com/)
     - Navigate to Spaces and create a new bucket.
 
 2. **Update the Spaces Bucket URL**  
